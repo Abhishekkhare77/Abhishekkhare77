@@ -2,18 +2,14 @@
 <h1 align="center">Hi 👋, I'm Abhishek khare</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkhare77&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkhare77" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkhare77" alt="abhishekkhare77" /></a> </p>
-
 - 🌱 I’m currently learning **Next JS**
 
-- 📫 How to reach me **abhishekkhare583@gmail.com**
+- 📫 Reach me **abhishekkhare583@gmail.com**
 
 - ⚡ Fun fact **I prefer long videos over shorts.**
 
 # 💫 About Me:
-I am a full stack web developer.<br>Currently working as an intern in Blockchain Innovation Pvt. Ltd. 
+I am currently working as an intern in Blockchain Innovation Pvt. Ltd. 
 
 
 ## 🌐 Socials:
