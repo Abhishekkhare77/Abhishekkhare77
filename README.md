@@ -1,4 +1,4 @@
-<img src="https://pa1.narvii.com/5632/c5612569563abae86b811071616e4c07f5b3aa18_hq.gif" width="800" height="500">
+<img src="https://pa1.narvii.com/5632/c5612569563abae86b811071616e4c07f5b3aa18_hq.gif" width="900" height="600">
 <img src="https://media.licdn.com/dms/image/D4D16AQH0jG5zVHd04w/profile-displaybackgroundimage-shrink_350_1400/0/1685184488300?e=1697068800&v=beta&t=F7Gr7y5ZBxgAUxTEo1N4jaitEFVjDYWS_4V3n4J51YM">
 <h1 align="center">Hi 👋, I'm Abhishek khare</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
