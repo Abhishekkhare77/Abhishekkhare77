@@ -1,4 +1,4 @@
-<img src="https://ineedanime.com/wp-content/uploads/2021/09/kakashi-hatake-hello.gif">
+<img src="https://ineedanime.com/wp-content/uploads/2021/09/kakashi-hatake-hello.gif" height="300">
 <h1 align="center">Hi 👋, I'm Abhishek khare</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
