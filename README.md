@@ -1,5 +1,12 @@
 <img src="https://pa1.narvii.com/5632/c5612569563abae86b811071616e4c07f5b3aa18_hq.gif" width="1000" height="550">
-Working at: [Catax - Simple Crypto Taxes](https://catax.app), [National Digital Asset Exchange](https://ndax.in), [Blockright](https://blockright.org), [Atithi Compliance System](https://atithi.live), [Red Wallet Initative](https://redwallet.live), [Codesplain - AI Codebase Documentation](https://codesplain.live)
+## Working at:
+- Catax - Simple Crypto Taxes: [https://catax.app](https://catax.app)
+- National Digital Asset Exchange: [https://ndax.in](https://ndax.in)
+- Blockright: [https://blockright.org](https://blockright.org)
+- Atithi Compliance System: [https://atithi.live](https://atithi.live)
+- Red Wallet Initiative: [https://redwallet.live](https://redwallet.live)
+- Codesplain - AI Codebase Documentation: [https://codesplain.live](https://codesplain.live)
+
 
 <h1 align="center">Hi 👋, I'm Abhishek khare</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
