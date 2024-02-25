@@ -1,4 +1,4 @@
-<img src="https://pa1.narvii.com/5632/c5612569563abae86b811071616e4c07f5b3aa18_hq.gif" width="1000" height="550">
+<img src="https://pa1.narvii.com/5632/c5612569563abae86b811071616e4c07f5b3aa18_hq.gif" width="1000" height="520">
 - 🚀 Working at: [Catax - Simple Crypto Taxes](https://catax.app), [National Digital Asset Exchange](https://ndax.in), [Blockright](https://blockright.org), [Atithi Compliance System](https://atithi.live), [Red Wallet Initative](https://redwallet.live), [Codesplain - AI Codebase Documentation](https://codesplain.live)
 
 
