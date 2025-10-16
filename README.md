@@ -1,25 +1,14 @@
 <img src="https://pa1.narvii.com/5632/c5612569563abae86b811071616e4c07f5b3aa18_hq.gif" width="1000" height="520">
-- 🚀 Working at:
-  - [Catax - Simple Crypto Taxes](https://catax.app)
-  - [National Digital Asset Exchange](https://ndax.in)
-  - [Blockright](https://blockright.org)
-  - [Atithi Compliance System](https://atithi.live)
-  - [Red Wallet Initiative](https://redwallet.live)
-  - [Codesplain - AI Codebase Documentation](https://codesplain.live)
-
-
 
 <h1 align="center">Hi 👋, I'm Abhishek khare</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-
-- 🌱 I’m currently learning **Next JS**
 
 - 📫 Reach me **abhishekkhare583@gmail.com**
 
 - ⚡ Fun fact **I prefer long videos over shorts.**
 
 # 💫 About Me:
-I am currently working as an intern in Blockchain Innovation Pvt. Ltd. 
+I am a full-stack software developer passionate about building scalable web applications and AI-driven products. With strong expertise in both frontend and backend technologies.Beyond coding, I enjoy simplifying complex technical topics through educational content and helping others grow as developers.
 
 
 ## 🌐 Socials:
